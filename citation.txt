@@ -1,0 +1,9 @@
+@inproceedings{REPO-325,
+    author = "Phan, Thomy and Belzner, Lenz and Gabor, Thomas and Sedlmeier, Andreas and Ritz, Fabian and Linnhoff-Popien, Claudia",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "13",
+    pages = "11308--11316",
+    title = "{Resilient Multi-agent Reinforcement Learning with Adversarial Value Decomposition}",
+    volume = "35",
+    year = "2021"
+}
